@@ -1,1 +1,2 @@
-# bank-Simulator
+# Bank Simulator
+# Bank Simulator Game using Java
